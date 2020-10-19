@@ -1,0 +1,73 @@
+/** a=0 b=0 c=1 **/
+body { color: black;
+    background-color: #e3e4a6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    text-align: justify;
+}
+header {
+    grid-area: header;
+}
+section {
+    line-height: 23px;
+}
+/** a=0 b=0 c=1 **/
+H1 {
+    background-color : rgb(108, 197, 85);
+    font-size : 36pt;
+    font-family : Jazz LET, fantasy;
+    font-weight: 600;
+    text-align : center;
+    border: 5px solid black
+}
+/** a=0 b=0 c=1 **/
+H2 {
+    font-size:28pt;
+    font-family: Chalkduster, fantasy;
+}
+/** a=0 b=0 c=1 **/
+H3 {
+    font-size : 24pt;
+    font-family : Jazz LET, fantasy;
+}
+/** a=0 b=0 c=1 **/
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 15px 0;
+    border-collapse: separate;
+}
+/** a=0 b=0 c=1 **/
+td {
+    width: 20%;
+    text-align: left;
+    border: 2px solid black;
+}
+/** a=0 b=0 c=1 **/
+th {
+    width: 20%;
+    text-align: left;
+    border: 2px solid black;
+    background-color: rgb(108, 197, 85);
+}
+
+/** a=0 b=0 c=1 **/
+ul {
+    list-style-type: decimal;
+    
+}
+/** a=0 b=0 c=2 **/
+ul li {
+    list-style-type: circle;
+    color: black;
+}
+/** a=0 b=1 c=1 **/
+a:link {
+    color: blue;
+}
+/** a=0 b=1 c=1 **/
+a:visited {
+    color: blueviolet;
+}
+
+    
