@@ -34,3 +34,6 @@ table{
     padding-left:10px;
     padding-bottom: 5px;
 }
+ul {
+    line-height: 30px;
+}
