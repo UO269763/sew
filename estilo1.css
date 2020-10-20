@@ -1,19 +1,24 @@
+/** a=0 b=0 c=1 **/
 body{
     text-align: justify;
     margin-right: 30px;
     margin-left: 20px;
 }
-h1{
+/** a=0 b=0 c=1 **/
+h1 {
     text-align : center;
 }
+/** a=0 b=0 c=1 **/
 table{
     border-collapse: separate;
 }
+/** a=0 b=1 c=0 **/
 .foto1{
     float:right;
     padding-left:15px;
     padding-bottom: 15px;
 }
+/** a=0 b=1 c=0 **/
 .foto2 {
     float:right;  
     padding-left:15px;
@@ -21,19 +26,28 @@ table{
     width: 450px;
     height: 300px;
 }
+/** a=0 b=1 c=0 **/
 .foto3 {
     float:right;  
     padding-left: 15px; 
 }
+/** a=0 b=1 c=0 **/
 .paises{
     width: 15px;
     height: 10px;
 }
+/** a=0 b=1 c=0 **/
 .musica {
     float: right;  
     padding-left:10px;
     padding-bottom: 5px;
 }
+/** a=0 b=1 c=0 **/
 .navigation {
     line-height: 30px;
+}
+/** a=0 b=1 c=0 **/
+.validador{
+    width: 30px;
+    height: 30px;
 }

@@ -5,9 +5,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size:15px;
 }
+/** a=0 b=0 c=1 **/
 header {
     grid-area: header;
 }
+/** a=0 b=0 c=1 **/
 section {
     line-height: 23px;
 }
