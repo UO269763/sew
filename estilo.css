@@ -15,19 +15,19 @@ section {
 H1 {
     background-color : rgb(108, 197, 85);
     font-size : 36pt;
-    font-family : Jazz LET, fantasy;
+    font-family : "Jazz LET", fantasy;
     font-weight: 600;
     border: 5px solid black
 }
 /** a=0 b=0 c=1 **/
 H2 {
     font-size:28pt;
-    font-family: Chalkduster, fantasy;
+    font-family: "Chalkduster", fantasy;
 }
 /** a=0 b=0 c=1 **/
 H3 {
     font-size : 24pt;
-    font-family : Jazz LET, fantasy;
+    font-family : "Jazz LET", fantasy;
 }
 /** a=0 b=0 c=1 **/
 table {
