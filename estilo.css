@@ -4,7 +4,6 @@ body {
     background-color: #e3e4a6;
     font-family: Arial, Helvetica, sans-serif;
     font-size:15px;
-    text-align: justify;
 }
 header {
     grid-area: header;
@@ -18,7 +17,6 @@ H1 {
     font-size : 36pt;
     font-family : Jazz LET, fantasy;
     font-weight: 600;
-    text-align : center;
     border: 5px solid black
 }
 /** a=0 b=0 c=1 **/
@@ -35,8 +33,7 @@ H3 {
 table {
     border: 2px solid black;
     border-collapse: collapse;
-    margin: 15px 0;
-    border-collapse: separate;
+    margin: 15px 0; 
 }
 /** a=0 b=0 c=1 **/
 td {
@@ -51,11 +48,9 @@ th {
     border: 2px solid black;
     background-color: rgb(108, 197, 85);
 }
-
 /** a=0 b=0 c=1 **/
 ul {
     list-style-type: decimal;
-    
 }
 /** a=0 b=0 c=2 **/
 ul li {
@@ -69,6 +64,14 @@ a:link {
 /** a=0 b=1 c=1 **/
 a:visited {
     color: blueviolet;
+}
+/** a=0 b=0 c=3 **/
+nav ul li {
+    list-style-type: disc;
+}
+/** a=0 b=1 c=2 **/
+li a:hover {
+    cursor: pointer;
 }
 
     

@@ -1,19 +1,29 @@
+body{
+    text-align: justify;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+h1{
+    text-align : center;
+}
+table{
+    border-collapse: separate;
+}
 .foto1{
     float:right;
     padding-left:15px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
 }
 .foto2 {
     float:right;  
-    padding-left:10px;
-    padding-bottom: 5px;
+    padding-left:15px;
+    padding-bottom: 15px;
     width: 450px;
     height: 300px;
 }
 .foto3 {
     float:right;  
-    padding-left:10px;
-    padding-bottom: 5px;   
+    padding-left: 15px; 
 }
 .paises{
     width: 15px;
@@ -23,12 +33,4 @@
     float: right;  
     padding-left:10px;
     padding-bottom: 5px;
-}
-/** a=0 b=0 c=3 **/
-nav ul li {
-    list-style-type: disc;
-}
-/** a=0 b=1 c=2 **/
-li a:hover {
-    cursor: pointer;
 }
