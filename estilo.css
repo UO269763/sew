@@ -15,19 +15,19 @@ section {
 H1 {
     background-color : rgb(108, 197, 85);
     font-size : 36pt;
-    font-family : "Jazz LET", fantasy;
+    font-family : Verdana, Helvetica, sans-serif;
     font-weight: 600;
     border: 5px solid black
 }
 /** a=0 b=0 c=1 **/
 H2 {
     font-size:28pt;
-    font-family: "Chalkduster", fantasy;
+    font-family: Verdana, Helvetica, sans-serif;
 }
 /** a=0 b=0 c=1 **/
 H3 {
     font-size : 24pt;
-    font-family : "Jazz LET", fantasy;
+    font-family : Verdana, Helvetica, sans-serif;
 }
 /** a=0 b=0 c=1 **/
 table {
@@ -59,11 +59,12 @@ ul li {
 }
 /** a=0 b=1 c=1 **/
 a:link {
-    color: rgb(10, 0, 151);
+    color: blueviolet;
+    
 }
 /** a=0 b=1 c=1 **/
 a:visited {
-    color: blueviolet;
+    color: rgb(10, 0, 151);
 }
 /** a=0 b=0 c=3 **/
 nav ul li {
