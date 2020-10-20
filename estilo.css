@@ -59,12 +59,11 @@ ul li {
 }
 /** a=0 b=1 c=1 **/
 a:link {
-    color: blueviolet;
-    
+    color: rgb(10, 0, 151);
 }
 /** a=0 b=1 c=1 **/
 a:visited {
-    color: rgb(10, 0, 151);
+    color: blueviolet;
 }
 /** a=0 b=0 c=3 **/
 nav ul li {
