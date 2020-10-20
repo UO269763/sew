@@ -59,7 +59,7 @@ ul li {
 }
 /** a=0 b=1 c=1 **/
 a:link {
-    color: black;
+    color: rgb(10, 0, 151);
 }
 /** a=0 b=1 c=1 **/
 a:visited {
